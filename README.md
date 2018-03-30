@@ -10,7 +10,7 @@ This image is based on Alpine Linux image, which is only a 5MB image, and contai
 
 Download size of this image is only:
 
-[![](https://images.microbadger.com/badges/image/mmh42/alpine-miniconda3.svg)](http://microbadger.com/mmh42/alpine-miniconda3 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/mmh42/docker-alpine-miniconda3.svg)](http://microbadger.com/mmh42/docker-alpine-miniconda3 "Get your own image badge on microbadger.com")
 
 NOTE: Conda repositories contain only Glibc linked packaged binaries for Linux,
 so we have to use
