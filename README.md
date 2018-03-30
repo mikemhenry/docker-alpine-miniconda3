@@ -1,5 +1,5 @@
-[![Docker Stars](https://img.shields.io/docker/stars/frolvlad/alpine-miniconda3.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-miniconda3/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-miniconda3.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-miniconda3/)
+[![Docker Stars](https://img.shields.io/docker/stars/mmh42/alpine-miniconda3.svg?style=flat-square)](https://hub.docker.com/r/mmh42/alpine-miniconda3/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mmh42/alpine-miniconda3.svg?style=flat-square)](https://hub.docker.com/r/mmh42/alpine-miniconda3/)
 
 
 Miniconda Python 3.5 Docker image
@@ -10,7 +10,7 @@ This image is based on Alpine Linux image, which is only a 5MB image, and contai
 
 Download size of this image is only:
 
-[![](https://images.microbadger.com/badges/image/frolvlad/alpine-miniconda3.svg)](http://microbadger.com/images/frolvlad/alpine-miniconda3 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/mmh42/alpine-miniconda3.svg)](http://microbadger.com/mmh42/frolvlad/alpine-miniconda3 "Get your own image badge on microbadger.com")
 
 NOTE: Conda repositories contain only Glibc linked packaged binaries for Linux,
 so we have to use
