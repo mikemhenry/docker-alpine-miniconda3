@@ -22,7 +22,7 @@ Usage Example
 -------------
 
 ```bash
-$ docker run --rm frolvlad/alpine-miniconda3 python -c 'print("Hello World")'
+$ docker run --rm mmh42/docker-alpine-miniconda3 python -c 'print("Hello World")'
 ```
 
 Once you have run this command you will get printed 'Hello World' from Python!
