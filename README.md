@@ -6,7 +6,7 @@ Miniconda Python 3.5 Docker image
 =================================
 
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
-[Python 3.5](https://www.python.org/) packaged by Continuum with Conda package manager.
+[Python 3.6](https://www.python.org/) packaged by Continuum with Conda package manager.
 
 Download size of this image is only:
 
