@@ -18,6 +18,7 @@ RUN CONDA_VERSION="4.4.10" && \
     \
     conda update --all --yes && \
     conda config --set auto_update_conda False && \
+    conda install nomkl
     rm -r "$CONDA_DIR/pkgs/" && \
     \
     apk del --purge .build-dependencies && \
